@@ -3,8 +3,8 @@
   
     
     <entry>
-      <title></title>
-      <url>/2018/04/14/Kindle%20Note/</url>
+      <title><![CDATA[KindleNote]]></title>
+      <url>/2018/04/14/KindleNote/</url>
       <content type="html"><![CDATA[<h1 id="Kindle-Note"><a href="#Kindle-Note" class="headerlink" title="Kindle Note"></a>Kindle Note</h1><h3 id="Update-date-2018-4-14"><a href="#Update-date-2018-4-14" class="headerlink" title="Update date: 2018/4/14"></a>Update date: 2018/4/14</h3><ol>
 <li>游戏玩家会为自己的购买行为寻找理由，使自己相信自己并不愚蠢。唯一的解决办法就是不断掏腰包，以继续游戏。<br>&lt;上瘾：让用户养成使用习惯的四大产品逻辑&gt;([美]尼尔·埃亚尔,[美]瑞安·胡佛) </li>
 <li>，游戏玩家会为自己的购买行为寻找理由，使自己相信自己并不愚蠢。唯一的解决办法就是不断掏腰包，以继续游戏。<br>&lt;上瘾：让用户养成使用习惯的四大产品逻辑&gt;([美]尼尔·埃亚尔,[美]瑞安·胡佛) </li>
@@ -110,6 +110,12 @@
 ]]></content>
       
         
+        <tags>
+            
+            <tag> Reading </tag>
+            
+        </tags>
+        
     </entry>
     
     <entry>
@@ -179,6 +185,7 @@
 <li>Everything</li>
 </ul>
 </li>
+<li>QuickLook</li>
 <li>Seer</li>
 <li>AutoHotKey</li>
 </ul>
