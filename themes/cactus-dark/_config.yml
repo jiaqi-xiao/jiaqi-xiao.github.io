@@ -2,10 +2,10 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: https://github.com/JesseXJQ
+  Projects: https://github.com/jiaqi-xiao
   # Search : /Search/
 
-projects_url: https://github.com/JesseXJQ
+projects_url: https://github.com/jiaqi-xiao
 
 customize:
     gravatar:
@@ -28,10 +28,10 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: https://github.com/JesseXJQ/JesseXJQ.github.io
-        twitter: https://twitter.com/jessexjq
+        github: https://github.com/jiaqi-xiao
         # facebook: /
-        # linkedin: /
+        linkedin: https://www.linkedin.com/in/jq-xiao
+        twitter: https://twitter.com/jessexjq
         weibo: http://weibo.com/jessexjq
     show_all_posts: false
     post_count: 5
