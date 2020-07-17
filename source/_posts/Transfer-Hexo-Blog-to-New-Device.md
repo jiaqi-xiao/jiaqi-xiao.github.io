@@ -1,7 +1,7 @@
 ---
 title: Transfer Hexo Blog to New Device
 date: 2020-07-17 16:19:36
-tags:Programming
+tags: Programming
 ---
 
 I established this personal blog with GitHub pages and Hexo on my Windows PC. Currently, I want to transfer from PC to MacOS. This article explains the whole process of transferring.
