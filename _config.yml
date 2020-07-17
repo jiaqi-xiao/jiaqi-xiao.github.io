@@ -40,6 +40,7 @@ future: true
 highlight:
   enable: true
   line_number: true
+  # auto_detect: fa/Users/jiaqixiao/Workspace/blog/source/CNAME
   auto_detect: false
   tab_replace:
 
@@ -69,5 +70,5 @@ theme: cactus-dark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jiaqi-xiao/jiaqi-xiao.github.io.git
+  repo: git@github.com:jiaqi-xiao/jiaqi-xiao.github.io.git
   branch: master
