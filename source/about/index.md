@@ -8,6 +8,7 @@ date: 2018-01-25 14:38:12
 - Master Student at UC, Irvine
 - Major in Networked Systems
 - Love Tech & Soccer
+- [Resume](https://drive.google.com/file/d/10lLfJJym1Wt8AwDVSraK1LYa56vSNein/view?usp=sharing)
 
 #  About this Site
 
@@ -18,4 +19,3 @@ date: 2018-01-25 14:38:12
 
 
 **The real Technology is that you can't feel the existence of Technology.**
-

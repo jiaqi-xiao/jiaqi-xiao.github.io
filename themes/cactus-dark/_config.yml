@@ -2,7 +2,7 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: https://github.com/jiaqi-xiao
+  Projects: /projects/
   # Search : /Search/
 
 projects_url: https://github.com/jiaqi-xiao
